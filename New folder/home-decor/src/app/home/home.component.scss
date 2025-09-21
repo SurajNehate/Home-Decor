@@ -1,0 +1,12 @@
+.sim-pointer{ cursor: pointer; }
+.card img{ height: 180px; object-fit: cover; }
+
+.home{
+    text-align: center;
+    .intro{
+        padding-top: 5rem;
+    }
+    .short_desc{
+        padding-bottom: 2rem;
+    }
+}
